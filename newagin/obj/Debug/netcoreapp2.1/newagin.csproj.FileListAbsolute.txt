@@ -1,0 +1,14 @@
+C:\wep\시험\newagin\bin\Debug\netcoreapp2.1\newagin.deps.json
+C:\wep\시험\newagin\bin\Debug\netcoreapp2.1\newagin.runtimeconfig.json
+C:\wep\시험\newagin\bin\Debug\netcoreapp2.1\newagin.runtimeconfig.dev.json
+C:\wep\시험\newagin\bin\Debug\netcoreapp2.1\newagin.dll
+C:\wep\시험\newagin\bin\Debug\netcoreapp2.1\newagin.pdb
+C:\wep\시험\newagin\obj\Debug\netcoreapp2.1\newagin.csprojAssemblyReference.cache
+C:\wep\시험\newagin\obj\Debug\netcoreapp2.1\newagin.csproj.CoreCompileInputs.cache
+C:\wep\시험\newagin\obj\Debug\netcoreapp2.1\newagin.RazorAssemblyInfo.cache
+C:\wep\시험\newagin\obj\Debug\netcoreapp2.1\newagin.RazorAssemblyInfo.cs
+C:\wep\시험\newagin\obj\Debug\netcoreapp2.1\newagin.AssemblyInfoInputs.cache
+C:\wep\시험\newagin\obj\Debug\netcoreapp2.1\newagin.AssemblyInfo.cs
+C:\wep\시험\newagin\obj\Debug\netcoreapp2.1\newagin.RazorTargetAssemblyInfo.cache
+C:\wep\시험\newagin\obj\Debug\netcoreapp2.1\newagin.dll
+C:\wep\시험\newagin\obj\Debug\netcoreapp2.1\newagin.pdb
