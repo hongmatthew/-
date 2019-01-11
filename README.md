@@ -8,7 +8,7 @@
 > * [서버프로그램 구현](https://github.com/hongmatthew/-/blob/master/8%20%EC%84%9C%EB%B2%84%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EA%B5%AC%ED%98%84.zip)
 > * [데이터 입출력 구현](https://github.com/hongmatthew/-/commit/e7ad860327624f0d9b2b39ad385b2a55ac250eaf)
 > * [통합 구현](https://github.com/hongmatthew/-/commit/c1d26b4c8fb2404c8e0f5a164ac4a00f1cabcdc7)
-> * [제품소프트웨어 패키징]()
+> * [제품소프트웨어 패키징](https://github.com/hongmatthew/-/commit/a679fec67b0be5be6b7dd602e03b97243f00fb50)
 > * [정보시스템 이행]()
 > * [애플리케이션 테스트 수행]()
 > * [애플리케이션 테스트 관리]()
