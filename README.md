@@ -10,7 +10,7 @@
 > * [통합 구현](https://github.com/hongmatthew/-/commit/c1d26b4c8fb2404c8e0f5a164ac4a00f1cabcdc7)
 > * [제품소프트웨어 패키징](https://github.com/hongmatthew/-/commit/a679fec67b0be5be6b7dd602e03b97243f00fb50)
 > * [정보시스템 이행]()
-> * [애플리케이션 테스트 수행]()
+> * [애플리케이션 테스트 수행](http://gudi.kr/gdc3/201901/20190129/%ed%99%8d%eb%a7%88%ed%83%9c.zip)
 > * [애플리케이션 테스트 관리]()
 > * [애플리케이션 배포]()
 > * [프로젝트]()
